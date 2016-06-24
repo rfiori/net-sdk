@@ -6,15 +6,21 @@ using System.Collections.Specialized;
 using RestSharp;
 using System.Collections.Generic;
 
+
 namespace MercadoLibre.SDK.Test
 {
 	[TestFixture]
 	public class MeliTest
 	{
-		[Test]
+        readonly long _ClienteID = 123456;
+        readonly string _ClientSecret = "";
+        readonly string _AccessToken = "";
+
+
+        [Test]
 		public void GetAuthUrl ()
 		{
-			Meli m = new Meli (123456, "client secret");
+			var m = new Meli (_ClienteID, "client secret");
 			Assert.AreEqual (Meli.AuthUrls.MLA+"/authorization?response_type=code&client_id=123456&redirect_uri=http%3a%2f%2fsomeurl.com", m.GetAuthUrl (Meli.AuthUrls.MLA, "http://someurl.com"));
 		}
 
@@ -31,13 +37,13 @@ namespace MercadoLibre.SDK.Test
 		}
 
 		[Test]
-		[ExpectedException(typeof(AuthorizationException))]
 		public void AuthorizationFailure ()
 		{
 			Meli.ApiUrl = "http://localhost:3000";
 
 			Meli m = new Meli (123456, "secret client");
-			m.Authorize ("invalid code", "http://someurl.com");
+
+            Assert.Throws<AuthorizationException>(() => m.Authorize("invalid code", "http://someurl.com"));
 		}
 
 		[Test]
@@ -50,7 +56,7 @@ namespace MercadoLibre.SDK.Test
 			var response = m.Get ("/sites");
 
 			Assert.AreEqual (HttpStatusCode.OK, response.StatusCode);
-			Assert.IsNotNullOrEmpty (response.Content);
+			Assert.That(response.Content, Is.Not.Null.Or.Empty);
 		}
 
 		[Test]
@@ -69,7 +75,7 @@ namespace MercadoLibre.SDK.Test
 			var response = m.Get ("/users/me", ps);
 
 			Assert.AreEqual (HttpStatusCode.OK, response.StatusCode);
-			Assert.IsNotNullOrEmpty (response.Content);
+			Assert.That(response.Content, Is.Not.Null.Or.Empty);
 		}
 
 		[Test]

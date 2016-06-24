@@ -40,3 +40,4 @@ V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.dll
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.pdb
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\Newtonsoft.Json.xml
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\RestSharp.xml
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\nunit.framework.xml
