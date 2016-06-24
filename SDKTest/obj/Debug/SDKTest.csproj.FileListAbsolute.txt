@@ -28,3 +28,15 @@ C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\net-s
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\SDKTest.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\SDKTest.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\net-sdk.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\nunit.framework.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\RestSharp.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\Newtonsoft.Json.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\net-sdk.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.dll
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\Newtonsoft.Json.xml
+V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\RestSharp.xml

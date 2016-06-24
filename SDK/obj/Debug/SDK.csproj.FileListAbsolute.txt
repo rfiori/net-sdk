@@ -23,3 +23,12 @@ C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Release\RestSha
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\net-sdk.dll
 C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\net-sdk.dll
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\net-sdk.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\Newtonsoft.Json.dll
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\RestSharp.dll
+V:\Projetos.NET\Mercado-Livre-API\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
+V:\Projetos.NET\Mercado-Livre-API\SDK\obj\Debug\net-sdk.dll
+V:\Projetos.NET\Mercado-Livre-API\SDK\obj\Debug\net-sdk.pdb
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\Newtonsoft.Json.xml
+V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\RestSharp.xml
