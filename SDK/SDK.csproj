@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>MercadoLibre.SDK</RootNamespace>
     <AssemblyName>net-sdk</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
