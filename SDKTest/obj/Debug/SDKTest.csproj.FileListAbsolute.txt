@@ -41,3 +41,16 @@ V:\Projetos.NET\Mercado-Livre-API\SDKTest\obj\Debug\SDKTest.pdb
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\Newtonsoft.Json.xml
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\RestSharp.xml
 V:\Projetos.NET\Mercado-Livre-API\SDKTest\bin\Debug\nunit.framework.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\SDKTest.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\SDKTest.pdb
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\net-sdk.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\Newtonsoft.Json.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\nunit.framework.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\RestSharp.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\net-sdk.pdb
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\Newtonsoft.Json.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\nunit.framework.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\bin\Debug\RestSharp.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\obj\Debug\SDKTest.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDKTest\obj\Debug\SDKTest.pdb

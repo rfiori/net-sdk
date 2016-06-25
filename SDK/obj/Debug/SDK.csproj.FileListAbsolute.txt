@@ -32,3 +32,11 @@ V:\Projetos.NET\Mercado-Livre-API\SDK\obj\Debug\net-sdk.dll
 V:\Projetos.NET\Mercado-Livre-API\SDK\obj\Debug\net-sdk.pdb
 V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\Newtonsoft.Json.xml
 V:\Projetos.NET\Mercado-Livre-API\SDK\bin\Release\RestSharp.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\net-sdk.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\net-sdk.pdb
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\Newtonsoft.Json.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\RestSharp.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\Newtonsoft.Json.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\bin\Release\RestSharp.xml
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\obj\Debug\net-sdk.dll
+G:\Projetos.NET\API - Mercado Livre\net-sdk\SDK\obj\Debug\net-sdk.pdb
